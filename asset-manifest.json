@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/%7Bdesk-booker-app%7D/static/css/main.bb15dfc6.css",
+    "main.js": "/%7Bdesk-booker-app%7D/static/js/main.203a84ea.js",
+    "static/media/signUpGraphic.png": "/%7Bdesk-booker-app%7D/static/media/signUpGraphic.68f0de4050859a1e388e.png",
+    "static/media/logInGraphic.png": "/%7Bdesk-booker-app%7D/static/media/logInGraphic.5e40e7451ab575368e44.png",
+    "static/media/deskonhover.png": "/%7Bdesk-booker-app%7D/static/media/deskonhover.420e6aab04a3f08dde3e.png",
+    "static/media/deskdefault.png": "/%7Bdesk-booker-app%7D/static/media/deskdefault.f159a78f01f8b26920cb.png",
+    "static/media/office.png": "/%7Bdesk-booker-app%7D/static/media/office.92819a41c2b29ee7c9fa.png",
+    "index.html": "/%7Bdesk-booker-app%7D/index.html",
+    "main.bb15dfc6.css.map": "/%7Bdesk-booker-app%7D/static/css/main.bb15dfc6.css.map",
+    "main.203a84ea.js.map": "/%7Bdesk-booker-app%7D/static/js/main.203a84ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb15dfc6.css",
+    "static/js/main.203a84ea.js"
+  ]
+}
